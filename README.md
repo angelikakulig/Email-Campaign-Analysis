@@ -1,2 +1,2 @@
 # Email-Campaign-Analysis
-Projekt analizuje proces rejestracji użytkowników oraz ich aktywność związaną z komunikacją e-mail. Celem jest zbadanie liczby wysłanych, otwartych i klikniętych wiadomości, procesu weryfikacji kont, statusu subskrypcji oraz porównanie zachowań użytkowników między krajami i segmentami.
+This project analyzes the user registration process and user activity related to email communication. The goal is to examine the number of messages sent, opened, and clicked, the account verification process, and subscription status, as well as to compare user behavior across countries and segments.
