@@ -3,4 +3,4 @@ This project analyzes the user registration process and user activity related to
 
 ## Dashboard
 
-📊 [View Dashboard in Looker Studio](https://lookerstudio.google.com/reporting/xxxxxxxxxxxx)
+📊 [View Dashboard in Looker Studio](https://datastudio.google.com/reporting/704cecee-e866-4e8d-802b-869bc93d2a46)
